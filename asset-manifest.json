@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AWAD-BTCN2-CaroRefactor/static/css/main.6aceb611.chunk.css",
+    "main.js": "/AWAD-BTCN2-CaroRefactor/static/js/main.4768abca.chunk.js",
+    "main.js.map": "/AWAD-BTCN2-CaroRefactor/static/js/main.4768abca.chunk.js.map",
+    "runtime-main.js": "/AWAD-BTCN2-CaroRefactor/static/js/runtime-main.458c9ca5.js",
+    "runtime-main.js.map": "/AWAD-BTCN2-CaroRefactor/static/js/runtime-main.458c9ca5.js.map",
+    "static/js/2.69f61c3b.chunk.js": "/AWAD-BTCN2-CaroRefactor/static/js/2.69f61c3b.chunk.js",
+    "static/js/2.69f61c3b.chunk.js.map": "/AWAD-BTCN2-CaroRefactor/static/js/2.69f61c3b.chunk.js.map",
+    "static/js/3.ac46c6cb.chunk.js": "/AWAD-BTCN2-CaroRefactor/static/js/3.ac46c6cb.chunk.js",
+    "static/js/3.ac46c6cb.chunk.js.map": "/AWAD-BTCN2-CaroRefactor/static/js/3.ac46c6cb.chunk.js.map",
+    "index.html": "/AWAD-BTCN2-CaroRefactor/index.html",
+    "static/css/main.6aceb611.chunk.css.map": "/AWAD-BTCN2-CaroRefactor/static/css/main.6aceb611.chunk.css.map",
+    "static/js/2.69f61c3b.chunk.js.LICENSE.txt": "/AWAD-BTCN2-CaroRefactor/static/js/2.69f61c3b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AWAD-BTCN2-CaroRefactor/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.458c9ca5.js",
+    "static/js/2.69f61c3b.chunk.js",
+    "static/css/main.6aceb611.chunk.css",
+    "static/js/main.4768abca.chunk.js"
+  ]
+}
